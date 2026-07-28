@@ -1,18 +1,136 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- ERP Systems, Full-Stack Web Applications, and Java Spring Boot projects.<br><br>👯 I’m looking to collaborate on<br>- Open-source Java, Spring Boot, React, ASP.NET Core, and AI-powered web projects.<br><br>🤝 I’m looking for help with<br>- Cloud Deployment, Microservices, and System Design.<br><br>🌱 I’m currently learning<br>- Spring Security, ASP.NET Core, Microservices, Docker, and Cloud Computing.<br><br>💬 Ask me about<br>- Java, Spring Boot, React, ASP.NET Core, PostgreSQL, REST APIs, Git, and Software Engineering.<br><br>⚡ Fun fact<br>- I enjoy building real-world software solutions and I'm working towards becoming a successful software engineer and entrepreneur.
+<div align="center">
 
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:00C9FF&height=220&section=header&text=R.%20Dhanushan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI-Augmented%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanushan Ravindran) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dhanushan Ravindran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanu2004847@gmail.com) 
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;React+%2B+Next.js+%7C+Spring+Boot+%7C+.NET+8;Directing+AI+to+Ship+Production-Grade+Code;Building+TalentIQ+%E2%80%94+AI+Powered+Recruitment" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhanu2004847-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhanu2004847-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhanu2004847-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/dhanushan-ravindran-68011435a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dhanu2004847@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/dhanu2004847-ux">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=dhanu2004847-ux&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhanu2004847-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+
+```yaml
+name: R. Dhanushan
+role: Software Engineering Undergraduate @ NSBM Green University
+focus: Full-Stack Development | AI-Augmented Engineering
+graduating: December 2028
+currently_building: TalentIQ — an AI-powered recruitment platform
+currently_seeking: Remote Software Engineering Internship (2027)
+fun_fact: I direct AI tools with precise, engineered prompts — then read every line they write.
+```
+
+---
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,react,nextjs,spring,dotnet,postgres,mysql,git,github,docker,vscode,idea,postman&theme=dark&perline=9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Stack |
+|---|---|
+| 🎨 **Frontend** | React · Next.js · HTML5 · CSS3 |
+| ⚙️ **Backend** | Spring Boot · Spring Security · ASP.NET Core (.NET 8) · Entity Framework Core |
+| 🗄️ **Database** | PostgreSQL · MySQL · SQL Server |
+| 🔗 **APIs & Auth** | REST · Swagger/OpenAPI · JWT |
+| 🧰 **Tooling** | Docker · Git/GitHub · Postman · Visual Studio · IntelliJ IDEA |
+
+</div>
+
+---
+
+### 🚀 Featured Builds
+
+<div align="center">
+
+<a href="https://github.com/dhanu2004847-ux">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=TalentIQ&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/Kaarthiraghav/PhotoConnect">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaarthiraghav&repo=PhotoConnect&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/dhanu2004847-ux">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=ApparelHub&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/dhanu2004847-ux/ignite">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=ignite&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+> 💡 **Note:** pinned-repo cards only render once the repo exists and is public under the exact name shown above — rename or fork accordingly.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanu2004847-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu2004847-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu2004847-ux&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Live Contribution Graph (3D Animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhanu2004847-ux/dhanu2004847-ux/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+> ⚠️ **Setup required** — this snake graphic only appears once you add the GitHub Action below to a repo named exactly `dhanu2004847-ux` (a repo matching your username so it renders on your profile page). See setup steps at the bottom.
+
+---
+
+### 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhanu2004847-ux&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:1F3864&height=100&section=footer"/>
+
+</div>
