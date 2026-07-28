@@ -32,7 +32,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dhanu2004847-ux&label=SYSTEM%20VISITORS&color=0D1117&style=for-the-badge&labelColor=00C9FF"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com&color=success&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
