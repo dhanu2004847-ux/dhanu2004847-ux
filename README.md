@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">⚡ SYSTEM.PROFILE // ABOUT_ME</h2>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">🧬 TECH STACK</h2>
 
@@ -58,7 +58,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">🚀 DEPLOYED_PROJECTS</h2>
 
@@ -80,7 +80,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">📡 GITHUB ANALYTICS</h2>
 
@@ -89,13 +89,9 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanu2004847-ux&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00C9FF&title_color=00FFF7&text_color=ffffff&bg_color=0D1117"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu2004847-ux&layout=compact&theme=dark&hide_border=true&icon_color=00C9FF&title_color=00FFF7&text_color=ffffff&bg_color=0D1117"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu2004847-ux&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=00FFF7&currStreakLabel=00C9FF"/>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">🐍 LIVE CONTRIBUTION GRID</h2>
 
@@ -103,7 +99,7 @@
 <img src="https://raw.githubusercontent.com/dhanu2004847-ux/dhanu2004847-ux/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">🏆 TROPHIES</h2>
 
@@ -111,7 +107,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dhanu2004847-ux&theme=algolia&no-frame=true&row=1&column=7"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <h2 align="center">📈 SKILL PROGRESS</h2>
 
@@ -124,7 +120,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+---
 
 <div align="center">
 
