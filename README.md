@@ -1,131 +1,375 @@
-<div align="center">
+# ⚡ Hey, I'm Danushan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C9FF&height=260&section=header&text=R.%20DHANUSHAN&fontSize=60&fontColor=00FFF7&animation=twinkling&fontAlignY=32&desc=%3C%20Full-Stack%20Engineer%20%2F%2F%20AI-Augmented%20Builder%20%3E&descAlignY=52&descSize=19&descColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+.NET+%7C+React;Python+%7C+AI%2FML+Enthusiast;Building+Ideas+Into+Real+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=00FFF7&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+whoami%3A+R.Dhanushan+%7C+SE+Undergraduate;%3E+stack%3A+React+%2B+Next.js+%7C+Spring+Boot+%7C+.NET+8;%3E+status%3A+shipping+TalentIQ+%E2%80%94+AI-Powered+Recruitment+Platform;%3E+mission%3A+directing+AI+to+write+production-grade+code" alt="terminal typing"/>
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=180&section=header&text=DANUSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/dhanushan-ravindran-68011435a/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C9FF&labelColor=0D1117"/>
-</a>
-<a href="mailto:dhanu2004847@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00C9FF&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/dhanu2004847-ux">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C9FF&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dhanu2004847-ux&label=SYSTEM%20VISITORS&color=0D1117&style=for-the-badge&labelColor=00C9FF"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-<h2 align="center">⚡ SYSTEM.PROFILE // ABOUT_ME</h2>
+## 🧬 `whoami`
 
-<div align="center">
+```bash
+> initializing Danushan.exe...
 
-```yaml
-> BOOT SEQUENCE INITIATED...
-> Loading identity module........ OK
-> name:              R. Dhanushan
-> role:              Software Engineering Undergraduate
-> institution:       NSBM Green University, Sri Lanka
-> graduation:        December 2028
-> current_build:     TalentIQ (AI-Powered Recruitment Platform)
-> objective:         Remote Software Engineering Internship — 2027
-> core_skill:        Engineering precise AI prompts, then owning every line shipped
-> STATUS:            [ONLINE] — Actively building, actively learning
+[✓] Software Engineering Undergraduate
+[✓] Full-Stack Developer
+[✓] Backend & API Development
+[✓] Database Engineering
+[✓] AI / ML Explorer
+[✓] Open Source & Git Enthusiast
+[✓] Problem Solver
+[✓] Building real-world software
+
+> status: ONLINE ⚡
 ```
 
-</div>
+I'm a **Software Engineering undergraduate at NSBM Green University**, passionate about transforming ideas into scalable, practical software.
+
+My main interests are **full-stack development, backend engineering, distributed systems, AI/ML, databases, and software architecture**.
+
+I enjoy working on projects where I can go beyond simply writing code — understanding the problem, designing the architecture, building the system, testing it, and shipping it.
+
+> 💡 **My goal:** Become a highly skilled software engineer capable of designing and building production-grade systems.
 
 ---
 
-<h2 align="center">🧬 TECH STACK</h2>
+# 🧠 TECH STACK
 
-<div align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,cs,py,js,ts,react,nextjs,spring,dotnet,postgres,mysql,git,github,docker,vscode,idea,postman,figma&theme=dark&perline=9"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,c,html,css" />
+</p>
 
-</div>
+### ⚙️ Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,react,nextjs,nodejs,bootstrap" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cloudflare,docker" />
+</p>
+
+### 🛠️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,rider,postman,linux" />
+</p>
 
 ---
 
-<h2 align="center">🚀 DEPLOYED_PROJECTS</h2>
+# 🚀 WHAT I BUILD
 
-<div align="center">
+```text
+                    ┌─────────────────────────┐
+                    │       💡 IDEA           │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │   🧠 SYSTEM DESIGN      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │   ⚙️ BACKEND / APIs     │
+                    └────────────┬────────────┘
+                                 │
+                    ┌────────────┴────────────┐
+                    ▼                         ▼
+          ┌──────────────────┐      ┌──────────────────┐
+          │   🎨 FRONTEND    │      │   🗄️ DATABASE    │
+          └────────┬─────────┘      └────────┬─────────┘
+                   │                         │
+                   └────────────┬────────────┘
+                                ▼
+                    ┌─────────────────────────┐
+                    │       🐳 DEPLOY          │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │      🚀 REAL WORLD      │
+                    └─────────────────────────┘
+```
 
-<a href="https://github.com/dhanu2004847-ux/springboot-demo">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=springboot-demo&theme=dark&hide_border=true&border_color=00C9FF"/>
+---
+
+# 🔥 FEATURED PROJECTS
+
+## 📸 PhotoConnect
+
+**Photography Booking & Portfolio Platform**
+
+```text
+Java • Spring Boot • PostgreSQL • Cloudinary
+```
+
+A full-stack platform designed for photographers and customers.
+
+### Core Features
+
+* 📷 Photographer portfolio management
+* 📅 Photography booking system
+* ☁️ Cloudinary image storage
+* 🗂️ Event-based portfolio organization
+* 📦 Portfolio ZIP download
+* 🔐 Backend API architecture
+* 🗄️ PostgreSQL database integration
+
+---
+
+## 🧠 TalentIQ
+
+**AI-Powered Recruitment & Analytics Platform**
+
+```text
+.NET 8 • C# • SQL Server • REST APIs • React
+```
+
+A recruitment platform focused on intelligent hiring analytics and candidate management.
+
+### My Contributions
+
+* 📊 Analytics & KPI Dashboard
+* 📈 Hiring Funnel Analytics
+* 🎯 Days-to-Fill Prediction
+* 👨‍💼 Recruiter Performance Analytics
+* 🧠 Talent Pool & Candidate Re-engagement
+* 🔌 REST API development
+* 🗄️ Entity Framework Core
+* 🧪 Swagger API testing
+
+### API Modules
+
+```text
+GET  /api/v1/analytics/dashboard
+GET  /api/v1/analytics/hiring-funnel
+GET  /api/v1/analytics/days-to-fill
+
+POST /api/v1/talent-pool/propose
+GET  /api/v1/talent-pool/dashboard
+```
+
+---
+
+## 🍔 Food Delivery Time Prediction
+
+**Machine Learning Analysis Project**
+
+```text
+Python • Pandas • Matplotlib • Scikit-Learn
+```
+
+A machine-learning project focused on analysing and predicting food delivery times.
+
+### Technologies
+
+* 🐍 Python
+* 🐼 Pandas
+* 📊 Matplotlib
+* 🤖 Scikit-Learn
+* 📈 Data Analysis
+* 🧹 Data Preprocessing
+* 🧠 Predictive Modeling
+
+---
+
+## 🛍️ ApparelHubERP
+
+**Enterprise Resource Planning System**
+
+```text
+React • .NET • REST APIs • Database
+```
+
+A team-based ERP system with a focus on business operations and point-of-sale functionality.
+
+### Current Development Areas
+
+* 🧾 POS System
+* 🔐 Authentication & Role-Based Access
+* 💳 Checkout Workflow
+* 📦 Product Management
+* 🔌 Backend API Integration
+* 🎨 Modern React UI
+
+---
+
+# 🧩 CURRENTLY EXPLORING
+
+```text
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│   🧠 Artificial Intelligence                     │
+│   🤖 Machine Learning                             │
+│   ☁️ Cloud Architecture                            │
+│   🐳 Docker & Containerization                    │
+│   🔗 Microservices                                │
+│   🏗️ System Design                                │
+│   ⚡ Advanced Backend Engineering                  │
+│   📊 Data Engineering                              │
+│   🔐 Secure Application Development                │
+│                                                   │
+└───────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📈 MY DEVELOPMENT PHILOSOPHY
+
+```text
+              ┌───────────────────────┐
+              │       PROBLEM         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │      UNDERSTAND       │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        DESIGN         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │         BUILD         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │         TEST          │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │        IMPROVE        │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │         SHIP          │
+              └───────────────────────┘
+```
+
+> **Code is not just about making something work.
+> It's about making something worth maintaining.**
+
+---
+
+# 🎯 2026 → 2028 ROADMAP
+
+```text
+2026
+│
+├── ████████████████████  Full-Stack Development
+├── ██████████████████░░  Backend Engineering
+├── ████████████████░░░░  Database Systems
+├── ███████████████░░░░░  Software Architecture
+└── █████████████░░░░░░░  AI / ML
+        │
+        ▼
+2027
+│
+├── Advanced System Design
+├── Cloud & DevOps
+├── Distributed Systems
+├── Production Applications
+└── Industry Experience
+        │
+        ▼
+2028
+│
+├── Graduate as Software Engineer
+├── International Career
+├── Build Scalable Products
+└── Create Something That Matters 🚀
+```
+
+---
+
+# 🏆 GOALS
+
+```yaml
+career:
+  - Become a world-class software engineer
+  - Build production-grade applications
+  - Gain international industry experience
+
+technical:
+  - Master backend engineering
+  - Master system design
+  - Build scalable distributed systems
+  - Deepen AI/ML knowledge
+  - Become strong in cloud & DevOps
+
+builder:
+  - Turn ideas into products
+  - Build useful software for real users
+  - Contribute to open-source
+  - Keep learning continuously
+```
+
+---
+
+# 🌐 LET'S CONNECT
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/dhanu2004847-ux/student-management-api">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=student-management-api&theme=dark&hide_border=true&border_color=00C9FF"/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dhanu2004847-ux/ignite">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=ignite&theme=dark&hide_border=true&border_color=00C9FF"/>
-</a>
-<a href="https://github.com/dhanu2004847-ux/Dhanushan-CV">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=Dhanushan-CV&theme=dark&hide_border=true&border_color=00C9FF"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<h2 align="center">📡 GITHUB ANALYTICS</h2>
+<p align="center">
 
-<div align="center">
+### ⚡ BUILD • BREAK • LEARN • REBUILD • REPEAT ⚡
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanu2004847-ux&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00C9FF&title_color=00FFF7&text_color=ffffff&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu2004847-ux&layout=compact&theme=dark&hide_border=true&icon_color=00C9FF&title_color=00FFF7&text_color=ffffff&bg_color=0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:203a43,100:0f2027&height=120&section=footer"/>
 
-</div>
+</p>
 
----
+> *"The best way to predict the future is to build it."*
 
-<h2 align="center">🐍 LIVE CONTRIBUTION GRID</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dhanu2004847-ux/dhanu2004847-ux/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-<h2 align="center">🏆 TROPHIES</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhanu2004847-ux&theme=algolia&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
-<h2 align="center">📈 SKILL PROGRESS</h2>
-
-<div align="center">
-
-**Cloud & DevOps** `[■■■■■■□□□□]` 60%
-**System Design** `[■■■■□□□□□□]` 40%
-**AI-Assisted Engineering** `[■■■■■■■■□□]` 80%
-**Open Source Contribution** `[■■□□□□□□□□]` 20%
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "Directing AI is a skill. Understanding what it builds is the craft."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:302B63,100:0F0C29&height=160&section=footer"/>
-
-</div>
+<p align="center">
+  <b>Thanks for visiting my GitHub profile 🚀</b>
+</p>
