@@ -64,18 +64,18 @@
 
 <div align="center">
 
-<a href="https://github.com/dhanu2004847-ux">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=TalentIQ&theme=dark&hide_border=true&border_color=00C9FF"/>
+<a href="https://github.com/dhanu2004847-ux/springboot-demo">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=springboot-demo&theme=dark&hide_border=true&border_color=00C9FF"/>
 </a>
-<a href="https://github.com/Kaarthiraghav/PhotoConnect">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaarthiraghav&repo=PhotoConnect&theme=dark&hide_border=true&border_color=00C9FF"/>
+<a href="https://github.com/dhanu2004847-ux/student-management-api">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=student-management-api&theme=dark&hide_border=true&border_color=00C9FF"/>
 </a>
 
-<a href="https://github.com/dhanu2004847-ux">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=ApparelHub&theme=dark&hide_border=true&border_color=00C9FF"/>
-</a>
 <a href="https://github.com/dhanu2004847-ux/ignite">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=ignite&theme=dark&hide_border=true&border_color=00C9FF"/>
+</a>
+<a href="https://github.com/dhanu2004847-ux/Dhanushan-CV">
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanu2004847-ux&repo=Dhanushan-CV&theme=dark&hide_border=true&border_color=00C9FF"/>
 </a>
 
 </div>
