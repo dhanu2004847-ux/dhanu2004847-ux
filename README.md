@@ -1,9 +1,9 @@
-# ⚡ Hey, I'm Danushan
+# ⚡ Hey, I'm Dhanushan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+.NET+%7C+React;Python+%7C+AI%2FML+Enthusiast;Building+Ideas+Into+Real+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=180&section=header&text=DANUSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=180&section=header&text=DHANUSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
