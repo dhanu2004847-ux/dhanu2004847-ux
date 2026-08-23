@@ -168,29 +168,7 @@ GET  /api/v1/talent-pool/dashboard
 
 ---
 
-## 🍔 Food Delivery Time Prediction
-
-**Machine Learning Analysis Project**
-
-```text
-Python • Pandas • Matplotlib • Scikit-Learn
-```
-
-A machine-learning project focused on analysing and predicting food delivery times.
-
-### Technologies
-
-* 🐍 Python
-* 🐼 Pandas
-* 📊 Matplotlib
-* 🤖 Scikit-Learn
-* 📈 Data Analysis
-* 🧹 Data Preprocessing
-* 🧠 Predictive Modeling
-
----
-
-## 🛍️ ApparelHubERP
+## 🛍️ NexaERP
 
 **Enterprise Resource Planning System**
 
