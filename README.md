@@ -62,13 +62,13 @@ I enjoy working on projects where I can go beyond simply writing code — unders
 ### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cloudflare,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" />
 </p>
 
 ### 🛠️ Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,rider,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,andriodstudio,visualstudio" />
 </p>
 
 ---
