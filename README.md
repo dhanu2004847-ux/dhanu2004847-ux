@@ -45,6 +45,16 @@ I enjoy working on projects where I can go beyond simply writing code — unders
 
 ---
 
+## 🚧 Currently Building
+
+```text
+[■■■■■■■■■□□] DevGuardian — AI-powered software engineering agent
+              (repo analysis, security review & DevOps assistance)
+              🔒 details private while in active development
+```
+
+---
+
 # 🧠 TECH STACK
 
 ### 💻 Languages
